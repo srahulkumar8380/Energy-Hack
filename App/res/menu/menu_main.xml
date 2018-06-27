@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hackthon.srahulkumar.energyhackapp.Activity.MainActivity">
+
+
+    <item
+        android:title="icon"
+        android:icon="@drawable/tranposrt"
+        app:showAsAction="always"
+        ></item>
+    <item
+        android:id="@+id/action_language"
+        android:orderInCategory="100"
+        android:title="@string/text_choose_language"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_feedback"
+        android:orderInCategory="101"
+        android:title="@string/text_feedback_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_faqs"
+        android:orderInCategory="102"
+        android:title="@string/text_fags_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_reminder"
+        android:orderInCategory="103"
+        android:title="@string/text_reminder_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_history"
+        android:orderInCategory="104"
+        android:title="@string/text_history_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="105"
+        android:title="@string/text_about_menu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="106"
+        android:title="@string/text_logout_menu"
+        app:showAsAction="never" />
+
+</menu>

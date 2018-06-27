@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ऊर्जा हैक ऐप</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="text_upload">मेरी टिकट</string>
+    <string name="text_userDetails">मेरी जानकारी</string>
+    <string name="text_scan">स्कैन</string>
+    <string name="text_scanTickets">स्कैन और अपलोड</string>
+
+
+    <string name="hello_blank_fragment">हैलो रिक्त टुकड़ा </string>
+    <string name="text_send">भेजना </string>
+    <string name="text_up">अपलोड </string>
+    <string name="text_account">लेखा </string>
+    <string name="text_upload_tickets">टिकट </string>
+    <string name="text_family">सदस्य जोड़ें </string>
+    <string name="text_my">लाभार्थियों </string>
+    <string name="text_hintFeedback">प्रतिक्रिया का स्वागत है </string>
+    <string name="text_toobar_title">प्रतिक्रिया भेजें </string>
+            <string name="text_about">बारे में </string>
+    <string name="text_choose_language">भाषा चुनें</string>
+    <string name="text_feedback_menu">प्रतिक्रिया भेजें</string>
+    <string name="text_fags_menu">पूछना</string>
+    <string name="text_reminder_menu">रिमाइंडर रिडीम करें</string>
+    <string name="text_history_menu">इतिहास</string>
+        <string name="text_about_menu">हमारे बारे में</string>
+    <string name="text_logout_menu">लोग आउट</string>
+    <string name="text_aboutAPp">
+ट्रैवल एंड ट्रैक ऐप एसओई के एंड्रॉइड क्लब द्वारा तेजी से, सुरक्षित, भरोसेमंद और प्रदूषण मुक्त शहर को सक्षम करने के लिए एक पहल है और इसलिए भारत के नागरिकों के बीच सार्वजनिक परिवहन को बढ़ावा देने के द्वारा प्रदूषण मुक्त भारत बनायेगा।
+        "\n"
+         "\n"
+आप इस ऐप पर बस और ट्रेन के यात्रा टिकट अपलोड कर सकते हैं और महीने के अंत में, आपका खाता प्रोमो कोड के साथ एक रोमांचक राशि के साथ तैयार हो जाएगा।
+आप इलेक्ट्रिक बिल, वॉटर बिल, गैस बिल और कई अन्य भुगतान करने के लिए इस प्रोमो कोड का उपयोग कर सकते हैं ...
+"\n"
+        "\n"
+अपने परिवार कोड को अन्य में कभी साझा न करें ...
+"\n"
+कॉल सेंटर नंबर 91-8075748697
+    </string>
+    <string name="text_alramDialog">अलार्म सेट करो...</string>
+    <string name="text_createAccount">खाता बनाएं</string>
+    <string name="text_headOfFamily">परिवार के मालिक का पूरा नाम</string>
+    <string name="text_name">नाम</string>
+    <string name="text_adharcard">आधार कार्ड</string>
+    <string name="text_address">घर का पता</string>
+    <string name="text_pinCode">पिन कोड</string>
+    <string name="text_email">ईमेल</string>
+    <string name="text_familyNumber">सदस्य जिसका आयु 10 से ऊपर है</string>
+    <string name="text_city">शहर :</string>
+    <string name="text_enterCity">शहर चुनें</string>
+    <string name="text_state">राज्य :</string>
+    <string name="text_enterState">राज्य चुनें</string>
+    <string name="text_phone">राशि भुगतान</string>
+    <string name="text_signUpButton">साइन अप करें</string>
+    <string name="login_title">लॉग इन करें</string>
+    <string name="text_age">आयु</string>
+    <string name="text_employed">कार्यरत</string>
+    <string name="text_yes_no">हाॅं /नही</string>
+    <string name="text_relation">ऐप मालिक के साथ संबंध</string>
+    <string name="text_member_title">नया सदस्य</string>
+    <string name="text_account_title">मेरा खाता</string>
+    <string name="text_ownerName">मालिक का नाम</string>
+    <string name="text_owner_email">मालिक ईमेल</string>
+    <string name="text_owner_phone">मालिक फोन नंबर</string>
+    <string name="text_owner_displayName">प्रदर्शित होने वाला नाम</string>
+    <string name="title_activity_tickets">TicketsActivity</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="text_aadhar">आधार</string>
+    <string name="text_Repassword">पासवर्ड फिर से दर्ज करें</string>
+    <string name="text_showFamily">परिवार के सदस्य दिखाओ</string>
+    <string name="text_destination">गंतव्य..</string>
+    <string name="text_saved">बचाना</string>
+    <string name="text_date_ofJourney">यात्रा की तारीख</string>
+    <string name="family_name">परिवार के सदस्य का नाम</string>
+    <string name="family_email">सदस्य का ईमेल</string>
+    <string name="family_aadhar">आधार ऑफ़ मेंबर</string>
+    <string name="family_phone">सदस्य से संपर्क</string>
+    <string name="family_relation">मालिक के साथ संबंध</string>
+    <string name="text_phoneNumber">फ़ोन नंबर</string>
+    <string name="text_member_phone">फ़ोन नंबर</string>
+    <string name="text_rule">नियम</string>
+    <string name="text_Aboutrule">
+        \u2022 खाता बनाने के बाद, आप इस ऐप के मालिक हैं "\n" "\n"
+           \u2022बटन जोड़ें सदस्य का उपयोग कर सभी परिवार के सदस्य जोड़ें।
+       आप खाता अनुभाग में अपना जोड़ा सदस्य देख सकते हैं"\n" "\n"
+           \u2022 टिकट अपलोड करने के लिए, आपके पास दो विकल्प हैं या तो स्कैन करें और
+              अपलोड बटन पर क्लिक करने के लिए आवश्यक विवरण भरकर अपलोड या अपलोड करें"\n" "\n"
+           \u2022 अपलोड किए गए टिकट देखने के लिए होम पेज के टिकट अनुभाग पर जाएं"\n" "\n"
+           \u2022 जेनरेटेड प्रोमो कोड टिकट अनुभाग में भी दिखाई देगा"\n" "\n"
+    </string>
+    <string name="acount_title">वापस</string>
+    <string name="account_hint1">srahulkumar</string>
+    <string name="account_email">srahulkumar633@gmail.com</string>
+    <string name="account_phone">91-8075748597</string>
+    <string name="member_button">जमा करें</string>
+    <string name="add_title">शुभकामना...</string>
+    <string name="add_subtitle">नए टिकट मिल गया</string>
+    <string name="add_subtitle2">कार्ट में जोड़ें</string>
+    <string name="add_subtitle3">टिकट संख्या...</string>
+    <string name="add_tickets">यहाँ टिकट नंबर दर्ज करें ...</string>
+    <string name="add_validate">सत्यापन की जांच करें</string>
+    <string name="add_name">यात्री का नाम</string>
+    <string name="add_bording">बोर्डिंग जगह</string>
+    <string name="add_destination">गंतव्य</string>
+    <string name="add_phone">राशि का भुगतान</string>
+    <string name="login_rahul">राहुल द्वारा डिजाइन किया गया</string>
+    <string name="tickets_title">अपलोड टिकट</string>
+</resources>
